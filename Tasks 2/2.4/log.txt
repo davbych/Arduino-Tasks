@@ -1,0 +1,15 @@
+t=0 ms phase=GREEN
+t=5000 ms phase=GREEN_BLINK
+t=5600 ms phase=GREEN_BLINK
+t=6200 ms phase=GREEN_BLINK
+t=6800 ms phase=YELLOW
+t=8800 ms phase=RED
+t=13800 ms phase=RED_YELLOW
+t=15800 ms phase=GREEN
+t=20800 ms phase=GREEN_BLINK
+t=21400 ms phase=GREEN_BLINK
+t=22000 ms phase=GREEN_BLINK
+t=22600 ms phase=YELLOW
+t=24600 ms phase=RED
+t=29600 ms phase=RED_YELLOW
+t=31600 ms phase=GREEN
